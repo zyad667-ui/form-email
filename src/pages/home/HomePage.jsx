@@ -1,14 +1,14 @@
 import React from 'react';
-import form from './partials/form'
-
+import Form from  "./partials/form";
 
 
 const HomePage = () => {
 
     return (
         <>
-<h1>helo world</h1>
-            
+
+            <Form />
+
 
         </>
     );
